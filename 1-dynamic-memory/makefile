@@ -62,4 +62,3 @@ exec :
 		echo $$test; \
 		./$$test; \
 	done
-
